@@ -1,0 +1,7 @@
+def solving_for_carrots(carrots: int):
+    for number input.split():
+        carrots = number
+
+if __name__ == '__main__':
+    solving_for_carrots(0)
+    print(carrots)
